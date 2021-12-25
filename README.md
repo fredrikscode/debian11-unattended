@@ -19,3 +19,7 @@ mount: mounting /dev/sda on /media failed: Invalid argument
 - Solve/remove above mentioned errors
 - Remove the need to press "Install" in the menu
 - Automatically encrypt given password from .env or similar
+
+# Quick links
+
+Incorporate the pressed config into the installer: https://wiki.debian.org/DebianInstaller/Preseed/EditIso
