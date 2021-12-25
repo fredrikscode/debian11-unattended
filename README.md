@@ -11,8 +11,12 @@ Current preseed configuration works as expected from pressing Install to 100% do
 ```
 mount: mounting /dev/sda on /media failed: Invalid argument
 umount: can't unmount /media: Invalid argument
+<<<<<<< HEAD
 mount: mounting /dev/sda on /media failed: Invalid argument
 ```
+=======
+mount: mounting /dev/sda on /media failed: Invalid argument`````
+>>>>>>> 57d0b0124c9ce07d620d2948f849fd1f43415882
 
 # Improvements
 
